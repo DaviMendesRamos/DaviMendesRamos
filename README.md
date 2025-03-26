@@ -21,13 +21,3 @@ Estou me aprofundando em novas tecnologias para expandir meus conhecimentos:
 
 ## 📂 Meus projetos  
 Aqui estão alguns dos projetos que desenvolvi:  
-
-- 🏆 **[Projeto 1](#)** – Descrição breve do projeto  
-- 💻 **[Projeto 2](#)** – Descrição breve do projeto  
-- 📱 **[Projeto 3](#)** – Descrição breve do projeto  
-
-## 📫 Entre em contato  
-Se quiser trocar uma ideia ou colaborar em algum projeto, me chama!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)  
